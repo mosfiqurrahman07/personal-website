@@ -62,16 +62,18 @@ section{
     text-align: center;
 }
 .email-box{
-    text-decoration: none;
+    margin: auto;
+    width: 40%;
+    padding: 2%;
+    text-align: center;
     background-image: linear-gradient(180deg, pink, lightpink);
-    padding: 10px 20px;
+    color: white;
     border-radius: 10px;
-    font-weight: bold;
-    margin: 10px 500px;
 }
 .email{
     text-decoration: none;
     color: white;
+    font-size: 150%;
 }
 footer p{
     text-align: center;
